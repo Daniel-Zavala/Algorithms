@@ -1,0 +1,44 @@
+Matriz Mágica
+
+
+
+Una matriz mágica es una matriz de nxn (donde n es estrictamente impar) y donde todos los
+renglones, columnas así como las dos diagonales suman lo mismo. El contenido de la matriz
+mágica solo pueden ser números enteros entre 1 y n2 sin repetirse.
+
+Desarrolla un programa que dado un número n (3 <= n <= 15) de entrada, y genere la Matriz
+mágica de nxn y la despliegue.
+
+Ejemplo, para una n= 3 la Matriz Mágica es:
+
+8 1 6
+3 5 7
+4 9 2
+
+
+Entrada:
+
+n – que son las dimensiones de la matriz cuadrada
+
+
+Salida:
+
+
+En una línea, el valor de la suma y en las líneas posteriores la matriz mágica.
+
+
+
+Ejemplo de Entrada:
+
+3
+
+
+Ejemplo de Salida:
+
+
+Suma = 15
+
+
+8 1 6
+3 5 7
+4 9 2
